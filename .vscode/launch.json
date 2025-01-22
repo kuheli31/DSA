@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/kuhel/Desktop/c",
-      "program": "c:/Users/kuhel/Desktop/c/build/Release/outRelease",
+      "cwd": "c:/Users/kuhel/Desktop/c/String",
+      "program": "c:/Users/kuhel/Desktop/c/String/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
